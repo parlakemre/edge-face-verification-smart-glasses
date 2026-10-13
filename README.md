@@ -112,11 +112,11 @@ If you find this research or code useful in your work, please cite:
 
 ```bibtex
 @article{parlak2026temporal,
-  author    = {Parlak, Emre and Kahraman, Nihan},
-  title     = {Temporal Fusion and Quantization for Robust Edge-Based Face Recognition on Smart Glasses},
-  journal   = {Royal Society Open Science},
-  year      = {2026},
-  publisher = {The Royal Society}
+  author  = {Parlak, Emre and Kahraman, Nihan},
+  title   = {Temporal Fusion and Quantization for Robust Edge-Based Face Recognition on Smart Glasses},
+  journal = {Preprint / Under Review},
+  year    = {2026},
+  note    = {Submitted for peer review}
 }
 ```
 
