@@ -2,8 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Journal](https://img.shields.io/badge/Journal-Royal%20Society%20Open%20Science-orange.svg)](https://royalsocietypublishing.org/journal/rsos)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://doi.org/10.5281/zenodo.placeholder)
+[![Status](https://img.shields.io/badge/Status-Under%20Review-blue.svg)](#-citation)
+[![DOI](https://zenodo.org/badge/1416764139.svg)](https://doi.org/10.5281/zenodo.23340013)
 
 Official research code and reproducible benchmark pipelines for the manuscript:  
 **"Temporal Fusion and Quantization for Robust Edge-Based Face Recognition on Smart Glasses"**.
@@ -116,6 +116,7 @@ If you find this research or code useful in your work, please cite:
   title   = {Temporal Fusion and Quantization for Robust Edge-Based Face Recognition on Smart Glasses},
   journal = {Preprint / Under Review},
   year    = {2026},
+  doi     = {10.5281/zenodo.23340013},
   note    = {Submitted for peer review}
 }
 ```
